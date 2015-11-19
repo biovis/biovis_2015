@@ -1,4 +1,4 @@
 ---
 layout: page
 ---
-[CFP]( {{ site.baseurl }}/years/2015/cfp.html)
+[CFP]( {{ site.baseurl }}/years/biovis_2015/cfp.html)
